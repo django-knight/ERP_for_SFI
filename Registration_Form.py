@@ -13,7 +13,7 @@ window = Tk()
 window.geometry("500x600")
 window.title("Registration Form")
 
-imge = Image.open("C:/Users/momin/Desktop/SFI.png")
+imge = Image.open("SFI.png")
 photo = ImageTk.PhotoImage(imge)
 
 
